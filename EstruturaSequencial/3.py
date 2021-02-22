@@ -1,0 +1,9 @@
+#Faça um Programa que peça dois números e imprima a soma.
+
+num1 = float(input("Digite o primeiro numero:"))
+
+num2 = float(input("Digite o segundo numero:"))
+
+result = num1 + num2
+
+print ("resultado da soma:", result)
